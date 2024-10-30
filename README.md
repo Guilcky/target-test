@@ -1,7 +1,7 @@
 # Target Test
 
 ## Descrição
-O Objetivo desse repositório é mostrar como resolvi os desafios propostos pela Target Sitemas
+O Objetivo desse repositório é mostrar como resolvi os desafios propostos pela Target Sistemas
 
 ## Informação Sobre os Dados:
 Desafio 3) Para Abrir Ele é necessário utilizar o Power BI
